@@ -4,7 +4,7 @@
 
 ---
 
-This playable post is [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0).
+This playable post is [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0). Thank you for this great training DAY 2 ! 
 
 This repository is also being used as a part of GitHub training, to practice Git and GitHub.
 
